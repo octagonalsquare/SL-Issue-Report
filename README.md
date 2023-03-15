@@ -13,7 +13,7 @@ Then it will play the intro, followed by randomized looping of the loopable sect
 
 ## Usage
 
-[StreamLooper Demo Video]()
+[StreamLooper Demo Video](https://youtu.be/6AsL6nZKXYw)
 
 ## Issue Reporting
 
